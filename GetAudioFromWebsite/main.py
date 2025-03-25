@@ -2,11 +2,11 @@ import requests
 import os
 
 # Full URL of the audio file
-audio_url = "https://www.liustar.cn/upload/202401/24/202401240935106562.mp3"
+audio_url = "https://www.liustar.cn/upload/202401/26/202401260941332187.mp3"
 
 # Specify the path where you want to save the file
 # Example: saving the file to a directory called 'audio_files' in the current working directory
-save_path = "C:/Users/Jomo/Desktop/listingSourceFiles/31-L2.mp3"
+save_path = "C:/Users/Jomo/Desktop/listingSourceFiles/34-L3.mp3"
 
 # Ensure the directory exists, create it if it doesn't
 os.makedirs(os.path.dirname(save_path), exist_ok=True)
